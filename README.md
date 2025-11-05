@@ -23,3 +23,5 @@ The forensic analysis revealed that while Arlene’s browsing activity was unrel
 4. **Analytical & Critical Thinking** – Evaluating data objectively to assess competing narratives in a criminal case.
 5. **Forensic Reporting** – Compiling a structured, court-ready report documenting methodology, findings, and conclusions.
 6. **Data Validation & Verification** – Cross-referencing tool output with underlying databases to ensure accuracy and evidentiary integrity.
+
+https://github.com/JonSecOps/Browser-Artifact-Analysis-for-Evidence-Validation-using-Foxton-Forensics-Tools/blob/main/Browser%20Artifact%20Analysis%20for%20Evidence%20Validation%20using%20Foxton%20Forensics%20Tools.pdf
